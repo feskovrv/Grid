@@ -6,6 +6,7 @@
     line-height: 36px;
     letter-spacing: 0.25px;
     color: #2D3436;
+    margin: 0;
 }
 .title_h1{
     font-weight: 800;
@@ -36,6 +37,7 @@
     font-size: 18px;
     line-height: 32px;
     color: #2D3436;
+    margin: 0;
 }
 .text_big{
     font-size: 24px;
